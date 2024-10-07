@@ -1,0 +1,4 @@
+List 1: Smallest values are (1, 3)
+List 2: Smallest values are (-1, 0)
+List 3: Smallest values are (2, 3)
+List 4: Smallest values are (-10, -5)
